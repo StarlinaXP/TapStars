@@ -16,7 +16,7 @@ Visit https://sideloadly.io/
  and download the version compatible with your system.
 (You may use another sideloading tool if preferred.)
 
-Run Sideloadly
+Run Sideloadly (or your preferred Software)
 
 On macOS, if the system flags Sideloadly as malware, go to System Settings → Privacy & Security, and select Allow Anyway to open it.
 
