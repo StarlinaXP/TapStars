@@ -26,6 +26,8 @@ On Windows 10, you can follow this video tutorial for detailed instructions: htt
 Log in with your Apple ID in Sideloadly to sign the TapStars app.
 (Your credentials are only used to create a signing certificate and are safe.)
 
+Select TapStarsX.X.ipa in sideloadly or preferred Sideloading App
+
 Enable Developer Mode
 Make sure Developer Mode is enabled on your iOS device.
 
