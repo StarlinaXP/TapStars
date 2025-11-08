@@ -1,4 +1,4 @@
-TapStars Installation Guide (iOS & Android)
+TapStars Installation Guide (iOS)
 
 OS Support
 Android
