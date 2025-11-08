@@ -23,8 +23,7 @@ On macOS, if the system flags Sideloadly as malware, go to System Settings → P
 On Windows 10, you can follow this video tutorial for detailed instructions: https://youtu.be/vqTsavQc3lQ
 
 (Windows and MacOS)
-Sign In with Your Apple ID
-Log in with your Apple ID within Sideloadly to sign the TapStars app.
+Log in with your Apple ID in Sideloadly to sign the TapStars app.
 (Your credentials are only used to create a signing certificate and are safe.)
 
 Enable Developer Mode
