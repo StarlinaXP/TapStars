@@ -1,11 +1,5 @@
 TapStars Installation Guide (iOS)
 
-OS Support
-Android
-iOS
-
-For iOS Users
-
 Requirements:
 Operating System: Windows or macOS
 
