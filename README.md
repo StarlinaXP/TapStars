@@ -40,4 +40,4 @@ Tap Trust [Your Apple ID] under the developer profile.
 Launch TapStars
 You can now play TapStars on your iOS device!
 
-Note: Free Apple developer certificates expire every 7 days. When this happens, simply repeat the signing and installation process to continue playing.
+Note: Free Apple developer certificates expire every 7 days. When this happens, simply repeat the signing and installation process to continue playing. (Save Data Will Not Be Effected)
