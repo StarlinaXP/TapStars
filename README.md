@@ -12,7 +12,7 @@ Operating System: Windows or macOS
 Installation Instructions:
 
 Download Sideloadly
-Visit sideloadly.io
+Visit https://sideloadly.io/
  and download the version compatible with your system.
 (You may use another sideloading tool if preferred.)
 
